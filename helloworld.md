@@ -1,14 +1,6 @@
----
-title: "**Hello World**"
-author: "*KHUSHI*"
-date: "5/31/2020"
-output:
-  pdf_document: default
-  word_document: default
----
+    print("Hello World")
 
-```{r}
-print("Hello World")
-```
+    ## [1] "Hello World"
 
-## This is a MARKDOWN file.
+This is a MARKDOWN file.
+------------------------
